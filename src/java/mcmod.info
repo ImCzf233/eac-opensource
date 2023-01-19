@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "EAC",
+  "description": "Example placeholder mod.",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hillo"],
+  "credits": "AntiCheat ",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

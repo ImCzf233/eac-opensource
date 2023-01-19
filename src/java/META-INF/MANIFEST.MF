@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+FMLCorePlugin: EAC.coremod.CoreMod
+Can-Retransform-Classes: true
+FMLCorePluginContainsFMLMod: true
+
