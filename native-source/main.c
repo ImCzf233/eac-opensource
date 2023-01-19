@@ -53,7 +53,7 @@ jint JNIEXPORT JNICALL Java_EAC_coremod_EACDetector_Monitor(JNIEnv *env, jobject
     **************************************************************************
 */
 jboolean JNIEXPORT JNICALL Java_EAC_coremod_EACDetector_FileMonitor(JNIEnv *env, jobject instance, jstring arg0){
-  return (jboolean)1; //傻逼空壳，用来吓唬你的，实际上还得靠李佳乐反作弊保护
+  return (jboolean)1; //傻逼空壳，用来吓唬你的，实际上还得靠mac反作弊保护
 }
 
 /*
